@@ -1,0 +1,12 @@
+<QuizML name = "Random Quiz">
+    <Description>This is a random quiz.</Description>
+    <Question type="tf" points="5">
+        <QuestionText answer="f">There are 4 primary colors.</QuestionText>
+        </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="t">The sun is yellow.</QuestionText>
+        </Question>
+    <Question type="tf" points="5">
+        <QuestionText answer="t">A square has 4 sides.</QuestionText>
+        </Question>
+</QuizML>

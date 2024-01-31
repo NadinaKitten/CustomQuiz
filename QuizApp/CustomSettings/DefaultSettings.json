@@ -1,0 +1,36 @@
+{
+    "Name" : "Default Settings",
+    "Style" : {
+        "Titles" : {
+            "Names" : {
+                "Label" : "Welcome.TLabel",
+                "Button" : "Welcome.TButton"
+            },
+            "fontSettings" : {
+                "family" : "Courier",
+                "size" : 24,
+                "weight" : "bold",
+                "slant" : "roman",
+                "underline" : 0,
+                "overstrike" : 0
+                }
+            },
+        "Text" : {
+            "Names" : {
+                "Label" : "Selection.TLabel",
+                "Button" : "Selection.TButton"
+                },
+            "fontSettings" : {
+                "family" : "Courier",
+                "size" : 18,
+                "weight" : "normal",
+                "slant" : "roman",
+                "underline" : 0,
+                "overstrike" : 0
+            }
+        }
+    },
+    "Color" : {
+
+    }
+}
